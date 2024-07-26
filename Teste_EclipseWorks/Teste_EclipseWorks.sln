@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.33529.622
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Teste_EclipseWorks", "Teste_EclipseWorks\Teste_EclipseWorks.csproj", "{F45FAB19-DB35-4EAA-8A78-27067FCF1330}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Teste_EclipseWorks", "Teste_EclipseWorks\Teste_EclipseWorks.csproj", "{F45FAB19-DB35-4EAA-8A78-27067FCF1330}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Teste_EclipseWorks.Data", "Teste_EclipseWorks.Data\Teste_EclipseWorks.Data.csproj", "{E566C5C0-769D-4122-ABE5-85D04002E06B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Teste_EclipseWorks.Domain", "Teste_EclipseWorks.Domain\Teste_EclipseWorks.Domain.csproj", "{7CDF728B-072C-4B85-9E51-52CF8278CAEF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{F45FAB19-DB35-4EAA-8A78-27067FCF1330}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F45FAB19-DB35-4EAA-8A78-27067FCF1330}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F45FAB19-DB35-4EAA-8A78-27067FCF1330}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E566C5C0-769D-4122-ABE5-85D04002E06B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E566C5C0-769D-4122-ABE5-85D04002E06B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E566C5C0-769D-4122-ABE5-85D04002E06B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E566C5C0-769D-4122-ABE5-85D04002E06B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CDF728B-072C-4B85-9E51-52CF8278CAEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CDF728B-072C-4B85-9E51-52CF8278CAEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CDF728B-072C-4B85-9E51-52CF8278CAEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CDF728B-072C-4B85-9E51-52CF8278CAEF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

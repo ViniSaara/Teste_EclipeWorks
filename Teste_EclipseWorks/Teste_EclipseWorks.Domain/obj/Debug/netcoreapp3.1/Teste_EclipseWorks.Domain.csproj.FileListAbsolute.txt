@@ -1,0 +1,9 @@
+C:\Users\Vini\Desktop\ENTREVISTAS\EclipseWorks\TesteTecnico\Teste_EclipseWorks\Teste_EclipseWorks.Domain\bin\Debug\netcoreapp3.1\Teste_EclipseWorks.Domain.deps.json
+C:\Users\Vini\Desktop\ENTREVISTAS\EclipseWorks\TesteTecnico\Teste_EclipseWorks\Teste_EclipseWorks.Domain\bin\Debug\netcoreapp3.1\Teste_EclipseWorks.Domain.dll
+C:\Users\Vini\Desktop\ENTREVISTAS\EclipseWorks\TesteTecnico\Teste_EclipseWorks\Teste_EclipseWorks.Domain\bin\Debug\netcoreapp3.1\Teste_EclipseWorks.Domain.pdb
+C:\Users\Vini\Desktop\ENTREVISTAS\EclipseWorks\TesteTecnico\Teste_EclipseWorks\Teste_EclipseWorks.Domain\obj\Debug\netcoreapp3.1\Teste_EclipseWorks.Domain.csproj.AssemblyReference.cache
+C:\Users\Vini\Desktop\ENTREVISTAS\EclipseWorks\TesteTecnico\Teste_EclipseWorks\Teste_EclipseWorks.Domain\obj\Debug\netcoreapp3.1\Teste_EclipseWorks.Domain.AssemblyInfoInputs.cache
+C:\Users\Vini\Desktop\ENTREVISTAS\EclipseWorks\TesteTecnico\Teste_EclipseWorks\Teste_EclipseWorks.Domain\obj\Debug\netcoreapp3.1\Teste_EclipseWorks.Domain.AssemblyInfo.cs
+C:\Users\Vini\Desktop\ENTREVISTAS\EclipseWorks\TesteTecnico\Teste_EclipseWorks\Teste_EclipseWorks.Domain\obj\Debug\netcoreapp3.1\Teste_EclipseWorks.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Vini\Desktop\ENTREVISTAS\EclipseWorks\TesteTecnico\Teste_EclipseWorks\Teste_EclipseWorks.Domain\obj\Debug\netcoreapp3.1\Teste_EclipseWorks.Domain.dll
+C:\Users\Vini\Desktop\ENTREVISTAS\EclipseWorks\TesteTecnico\Teste_EclipseWorks\Teste_EclipseWorks.Domain\obj\Debug\netcoreapp3.1\Teste_EclipseWorks.Domain.pdb
